@@ -1,0 +1,18 @@
+site_name: Virtual Chess Rook
+theme: readthedocs
+nav:
+  - The Monte Carlo Robots: 'https://the-monte-carlo-robots.readthedocs.io/'
+  -  Project:
+      -  Project Overview: 'project/index.md'
+      -  First Version: 'project/first.md'
+      -  ENIAC 2018: 'project/2018.md'
+      -  Code Optimization: 'project/optimization.md'
+      -  Variants: 'project/variants.md'
+      -  ENIAC 2019: 'project/2019.md'
+      -  CTIC 2020: 'projects/2020.md'
+  -  Code:
+      -  Code Overview: 'code/index.md'
+      -  Map: 'code/map.md'
+      -  Simulator: 'code/simulator.md'
+      -  MCL: 'code/mcl.md'
+      -  Simulated Annealing: 'code/simulated-annealing.md'
